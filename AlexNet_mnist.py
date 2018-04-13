@@ -21,7 +21,7 @@ mnist = input_data.read_data_sets("MNIST_Data", one_hot=True)
 #define super parameter
 learning_rate = 0.0045
 batch_size = 128
-epoch = 1200
+epoch = 1800
 train_keep_prop = 0.95
 #define parameter
 display_step = 200
